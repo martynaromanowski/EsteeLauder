@@ -16,6 +16,14 @@
 		CB5FF7AB2866B82C00BA3490 /* EsteeLauderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB5FF7AA2866B82C00BA3490 /* EsteeLauderTests.swift */; };
 		CB5FF7B52866B82C00BA3490 /* EsteeLauderUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB5FF7B42866B82C00BA3490 /* EsteeLauderUITests.swift */; };
 		CB5FF7B72866B82C00BA3490 /* EsteeLauderUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB5FF7B62866B82C00BA3490 /* EsteeLauderUITestsLaunchTests.swift */; };
+		CB5FF7CA28677B7400BA3490 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB5FF7C928677B7400BA3490 /* ViewController2.swift */; };
+		CB5FF7CC28677B9300BA3490 /* ViewControllerProductDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB5FF7CB28677B9300BA3490 /* ViewControllerProductDetails.swift */; };
+		CB5FF7CE28677BAF00BA3490 /* ViewControllerQuiz.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB5FF7CD28677BAF00BA3490 /* ViewControllerQuiz.swift */; };
+		CB5FF7D0286825E600BA3490 /* ViewControllerQuiz1.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB5FF7CF286825E600BA3490 /* ViewControllerQuiz1.swift */; };
+		CB5FF7D22868D41F00BA3490 /* ViewControllerQuiz2.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB5FF7D12868D41E00BA3490 /* ViewControllerQuiz2.swift */; };
+		CB9E9BAB286A5D82007DD60B /* ViewControllerQuiz3.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB9E9BAA286A5D82007DD60B /* ViewControllerQuiz3.swift */; };
+		CB9E9BAD286A5D93007DD60B /* ViewControllerQuiz4.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB9E9BAC286A5D93007DD60B /* ViewControllerQuiz4.swift */; };
+		CB9E9BAF286A9A05007DD60B /* ViewControllerReviews.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB9E9BAE286A9A05007DD60B /* ViewControllerReviews.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +57,14 @@
 		CB5FF7B02866B82C00BA3490 /* EsteeLauderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EsteeLauderUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB5FF7B42866B82C00BA3490 /* EsteeLauderUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EsteeLauderUITests.swift; sourceTree = "<group>"; };
 		CB5FF7B62866B82C00BA3490 /* EsteeLauderUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EsteeLauderUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		CB5FF7C928677B7400BA3490 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		CB5FF7CB28677B9300BA3490 /* ViewControllerProductDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerProductDetails.swift; sourceTree = "<group>"; };
+		CB5FF7CD28677BAF00BA3490 /* ViewControllerQuiz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerQuiz.swift; sourceTree = "<group>"; };
+		CB5FF7CF286825E600BA3490 /* ViewControllerQuiz1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerQuiz1.swift; sourceTree = "<group>"; };
+		CB5FF7D12868D41E00BA3490 /* ViewControllerQuiz2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerQuiz2.swift; sourceTree = "<group>"; };
+		CB9E9BAA286A5D82007DD60B /* ViewControllerQuiz3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerQuiz3.swift; sourceTree = "<group>"; };
+		CB9E9BAC286A5D93007DD60B /* ViewControllerQuiz4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerQuiz4.swift; sourceTree = "<group>"; };
+		CB9E9BAE286A9A05007DD60B /* ViewControllerReviews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerReviews.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +118,14 @@
 				CB5FF7932866B82800BA3490 /* AppDelegate.swift */,
 				CB5FF7952866B82800BA3490 /* SceneDelegate.swift */,
 				CB5FF7972866B82800BA3490 /* ViewController.swift */,
+				CB5FF7C928677B7400BA3490 /* ViewController2.swift */,
+				CB5FF7CB28677B9300BA3490 /* ViewControllerProductDetails.swift */,
+				CB5FF7CD28677BAF00BA3490 /* ViewControllerQuiz.swift */,
+				CB5FF7CF286825E600BA3490 /* ViewControllerQuiz1.swift */,
+				CB5FF7D12868D41E00BA3490 /* ViewControllerQuiz2.swift */,
+				CB9E9BAA286A5D82007DD60B /* ViewControllerQuiz3.swift */,
+				CB9E9BAC286A5D93007DD60B /* ViewControllerQuiz4.swift */,
+				CB9E9BAE286A9A05007DD60B /* ViewControllerReviews.swift */,
 				CB5FF7992866B82800BA3490 /* Main.storyboard */,
 				CB5FF79C2866B82B00BA3490 /* Assets.xcassets */,
 				CB5FF79E2866B82B00BA3490 /* LaunchScreen.storyboard */,
@@ -259,8 +283,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				CB5FF7982866B82800BA3490 /* ViewController.swift in Sources */,
+				CB5FF7CE28677BAF00BA3490 /* ViewControllerQuiz.swift in Sources */,
+				CB9E9BAD286A5D93007DD60B /* ViewControllerQuiz4.swift in Sources */,
+				CB5FF7CA28677B7400BA3490 /* ViewController2.swift in Sources */,
+				CB5FF7D0286825E600BA3490 /* ViewControllerQuiz1.swift in Sources */,
 				CB5FF7942866B82800BA3490 /* AppDelegate.swift in Sources */,
 				CB5FF7962866B82800BA3490 /* SceneDelegate.swift in Sources */,
+				CB9E9BAB286A5D82007DD60B /* ViewControllerQuiz3.swift in Sources */,
+				CB5FF7D22868D41F00BA3490 /* ViewControllerQuiz2.swift in Sources */,
+				CB5FF7CC28677B9300BA3490 /* ViewControllerProductDetails.swift in Sources */,
+				CB9E9BAF286A9A05007DD60B /* ViewControllerReviews.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
